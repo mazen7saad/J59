@@ -1,0 +1,106 @@
+
+/*
+*{
+	bac
+}
+
+
+*/
+
+#app{
+	width: 100%;
+	max-width: 100%;
+}
+#app p{
+	width: 100%;
+	padding: 14px;
+	
+	background: rgb(112, 91, 204);
+	
+	background: rgb(155 204 95);
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 22px;
+	border-radius: 15px;
+}
+
+
+
+#app textarea{
+	width: 100%;
+	border:2px solid rgb(138, 138, 138);
+	outline: none;
+	border-radius: 14px;
+	min-height: 140px;
+}
+
+
+
+/*
+
+	border-width: 1px;
+    border-style: solid;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
+    border-image: initial;
+
+
+#app textarea{
+
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: textarea;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    flex-direction: column;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    
+
+    
+	padding: 2px;
+}
+*/
+
+
+
+#app select{
+	width: 100%;
+	padding: 14px;
+	border-radius: 14px;
+	margin-bottom: 14px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- bootstrip --> */
+/* <!-- bootstrip --> */
+/* <!-- bootstrip --> */
+/* <!-- bootstrip --> */
